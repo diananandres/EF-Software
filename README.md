@@ -1,6 +1,6 @@
 # EF-Software
 # Sistema de Gestión de Rides 
-## Pregunta 1 
+## Pregunta 1 (main.py)
 
 Se implementaron todos los endpoints solicitados en el enunciado:
 
@@ -20,7 +20,7 @@ Se implementaron todos los endpoints solicitados en el enunciado:
 
 ---
 
-## Pregunta 2 – Pruebas Unitarias y Code Coverage
+## Pregunta 2 – (test.py)
 
 Se realizaron 4 pruebas unitarias con `unittest`:
 
